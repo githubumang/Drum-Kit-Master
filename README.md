@@ -3,6 +3,5 @@ It is a site  developed using HTML, CSS and js for logic implementation, where v
 
 It is hosted on : https://githubumang.github.io/Drum-Kit-Master/
 
-It looks like this :![Screenshot 2022-07-27 at 8 50 17 PM](https://user-images.githubusercontent.com/63348665/181285387-35b957d3-0b36-4f47-9b12-6db54825338b.png)
-
+It looks like this :![image](https://user-images.githubusercontent.com/113431853/231681472-5b7fd0e2-346e-430a-8b35-fc03d2c4b87b.png)
 
